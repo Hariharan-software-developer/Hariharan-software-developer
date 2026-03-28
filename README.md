@@ -1,7 +1,8 @@
 <div align="center">
 
+
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:E040FB,100:FF6584&height=200&section=header&text=Hariharan%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:E040FB,100:FF6584&height=200&section=header&text=Hariharan%20S%20R&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Java%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Hariharan+%F0%9F%91%8B;Full+Stack+Developer+from+Chennai+%F0%9F%87%AE%F0%9F%87%B3;Building+production-grade+software;Turning+ideas+into+elegant+code+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -282,8 +283,8 @@ public class CurrentFocus {
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hariharan--software--developer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hariharan-software-developer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan-software-developer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Hariharan-software-developer)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariharan.softwaredev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https:hariharan-devfolio.web.app)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisoftwaredeveloper@gmail.com)
 
 </div>
 
