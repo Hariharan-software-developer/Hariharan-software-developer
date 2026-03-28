@@ -9,10 +9,10 @@
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
+<!-- Profile Views & Social Badges
 ![Profile Views](https://komarev.com/ghpvc/?username=Hariharan-software-developer&label=Profile+Views&color=6C63FF&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/Hariharan-software-developer?label=Followers&style=for-the-badge&color=E040FB&labelColor=1a1a2e)](https://github.com/Hariharan-software-developer?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Hariharan-software-developer?label=Total+Stars&style=for-the-badge&color=FF6584&labelColor=1a1a2e)](https://github.com/Hariharan-software-developer)
+[![GitHub stars](https://img.shields.io/github/stars/Hariharan-software-developer?label=Total+Stars&style=for-the-badge&color=FF6584&labelColor=1a1a2e)](https://github.com/Hariharan-software-developer) -->
 
 </div>
 
@@ -32,7 +32,8 @@ interests  : [Full Stack Dev, Cloud Architecture, DevOps]
 
 > *"Clean code is not written by following rules. Clean code is written by a programmer who cares."*
 
-I'm a passionate **fresher software developer** based in Chennai with a strong foundation in **full-stack development**, **machine learning**, and **cloud-native architectures**. I love building real-world applications that are production-ready, scalable, and maintainable.
+I'm a passionate ** software developer** based in a strong foundation in **full-stack development**
+ and **cloud-native architectures**. I love building real-world applications that are production-ready, scalable, and maintainable.
 
 Currently building **NetWatch** — a full-stack network monitoring and log analysis platform using **Spring Boot 3.2**, **React 18**, **JWT**, **Elasticsearch**, and **scheduled polling**. Always pushing for clean layered architecture and enterprise-grade code.
 
@@ -85,6 +86,8 @@ Currently building **NetWatch** — a full-stack network monitoring and log anal
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
+
+![github-user-contribution (1)](https://github.com/user-attachments/assets/c78aa8e4-2983-445d-b41f-dfdb00b780f2)
 
 ---
 
