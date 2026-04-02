@@ -286,7 +286,7 @@ public class CurrentFocus {
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hariharan--software--developer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hariharan-software-developer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan-software-developer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https:hariharan-devfolio.web.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hariharan-devfolio.web.app)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harisoftwaredeveloper@gmail.com)
 
 </div>
