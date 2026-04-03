@@ -92,7 +92,7 @@ Currently building **NetWatch** — a full-stack network monitoring and log anal
 ---
 
 ## 🚀 Featured Projects
-
+ 
 <table>
   <tr>
     <td width="50%">
@@ -107,6 +107,108 @@ Currently building **NetWatch** — a full-stack network monitoring and log anal
       <p><b>Tech:</b> Java 17 · Spring Boot 3.2 · React 18 · JWT · Elasticsearch · MySQL · Docker</p>
     </td>
     <td width="50%">
+      <h3 align="center">🤖 AI Text Transform — Next.js Full Stack App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-Next.js_+_AI-000000?style=flat-square&logo=nextdotjs"/>
+      </p>
+      <p>
+        An <b>AI-powered full-stack web application</b> built with Next.js that performs intelligent text transformation. Integrates AI APIs to process, rewrite, and enhance text content with a clean, modern interface.
+      </p>
+      <p><b>Tech:</b> JavaScript · Next.js · AI API · Full Stack</p>
+      <p align="center">
+        <a href="https://github.com/Hariharan-software-developer/AI-Integrated-Text-Transform-Next-Js-full-Stack-App">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 Backend Secure Login — JWT Auth + Cookies</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-Node.js_+_JWT-339933?style=flat-square&logo=nodedotjs"/>
+      </p>
+      <p>
+        A <b>production-ready authentication backend</b> implementing secure login and registration with <b>JWT tokens</b> and <b>HTTP-only cookies</b>. Covers token refresh, protected routes, and industry-standard security practices.
+      </p>
+      <p><b>Tech:</b> JavaScript · Node.js · JWT · Cookies · REST API</p>
+      <p align="center">
+        <a href="https://github.com/Hariharan-software-developer/Backend-Secure-Login-Register-System--JWT-Auth-Cookies">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗄️ CRUD Backend — Node.js + MongoDB + MySQL</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-Node.js_+_MongoDB-339933?style=flat-square&logo=nodedotjs"/>
+      </p>
+      <p>
+        A <b>full CRUD REST API backend</b> built with Node.js, supporting both <b>MongoDB</b> and <b>MySQL</b> databases. Demonstrates clean RESTful design, controller-service separation, and multi-database integration patterns.
+      </p>
+      <p><b>Tech:</b> JavaScript · Node.js · MongoDB · MySQL · REST API</p>
+      <p align="center">
+        <a href="https://github.com/Hariharan-software-developer/CRUD-in-Backend-Node-Js-Mongodb-MySQL">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔑 JWT Auth Application System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-JavaScript_+_JWT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p>
+        A complete <b>JWT-based authentication system</b> with user registration, login, token generation, and protected route middleware. Demonstrates real-world auth flows used in enterprise applications.
+      </p>
+      <p><b>Tech:</b> JavaScript · JWT · Node.js · Middleware</p>
+      <p align="center">
+        <a href="https://github.com/Hariharan-software-developer/JWT-Auth-Application-system">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">☕ SpringBoot CRUD Application</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-Spring_Boot_+_Java-6DB33F?style=flat-square&logo=spring"/>
+      </p>
+      <p>
+        A clean <b>Spring Boot CRUD REST API</b> built with Java following layered architecture best practices. Demonstrates entity management, JPA repositories, service layer, and controller-level request handling.
+      </p>
+      <p><b>Tech:</b> Java · Spring Boot · JPA · MySQL · REST API</p>
+      <p align="center">
+        <a href="https://github.com/Hariharan-software-developer/SpringBoot-CRUD-Application">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐳 SpringBoot Student App in Docker</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Stack-Spring_Boot_+_Docker-2CA5E0?style=flat-square&logo=docker"/>
+      </p>
+      <p>
+        A <b>fully containerized Spring Boot application</b> using Docker Compose to orchestrate the app and MySQL database as separate containers. Demonstrates real-world Docker deployment with multi-container setup.
+      </p>
+      <p><b>Tech:</b> Java · Spring Boot · MySQL · Docker · Docker Compose</p>
+      <p align="center">
+        <a href="https://github.com/Hariharan-software-developer/SpringBoot-Student-App-in-Docker-Container">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">🤖 ML Student Score System with WebAPI</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square"/>
@@ -118,83 +220,6 @@ Currently building **NetWatch** — a full-stack network monitoring and log anal
       <p><b>Tech:</b> Python · Scikit-Learn · Jupyter Notebook · REST API</p>
       <p align="center">
         <a href="https://github.com/Hariharan-software-developer/ML_Student_Score_System_with_webAPI">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">☁️ QR Code Generator</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Deployed-Firebase-FFCA28?style=flat-square&logo=firebase"/>
-      </p>
-      <p>
-        A <b>live web app</b> that generates QR codes instantly for any URL, text, or contact — deployed on Firebase Hosting. Clean UI, real-time generation, and downloadable output.
-      </p>
-      <p><b>Tech:</b> HTML · CSS · JavaScript · Firebase</p>
-      <p align="center">
-        <a href="https://hari-qrcode-generator.web.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-        </a>
-        <a href="https://github.com/Hariharan-software-developer/Hari-QRCode-Generator">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌤️ Weather Man App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Deployed-Firebase-FFCA28?style=flat-square&logo=firebase"/>
-      </p>
-      <p>
-        A <b>real-time weather application</b> that fetches live data from weather APIs and displays temperature, humidity, wind, and forecast. Responsive design with smooth UI animations.
-      </p>
-      <p><b>Tech:</b> JavaScript · OpenWeather API · Firebase</p>
-      <p align="center">
-        <a href="https://hari-weather-man.web.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-        </a>
-        <a href="https://github.com/Hariharan-software-developer/Hari-Weather-Man">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💬 Hari-ChatBots</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Deployed-Firebase-FFCA28?style=flat-square&logo=firebase"/>
-      </p>
-      <p>
-        A conversational <b>chatbot application</b> deployed on the web. Features AI-powered responses with a sleek interface, real-time messaging UX, and Firebase backend.
-      </p>
-      <p><b>Tech:</b> JavaScript · Firebase · Chat API</p>
-      <p align="center">
-        <a href="https://hari-chatbots.web.app">
-          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-        </a>
-        <a href="https://github.com/Hariharan-software-developer/Hari-ChatBots">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚙️ Kubernetes EC2 Operator (Collab)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Open_Source-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-Go_+_Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
-      </p>
-      <p>
-        A <b>production-grade Kubernetes operator</b> written in Go that manages AWS EC2 instances. Features a real-time glassmorphism dashboard and a full observability stack. Open source collaboration.
-      </p>
-      <p><b>Tech:</b> Go · Kubernetes · AWS EC2 · Observability</p>
-      <p align="center">
-        <a href="https://github.com/Iam-Karan-Suresh/Operator-Repository">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
